@@ -6,6 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
+    "npm-set-registry-default": "npm config set registry=https://registry.npmjs.org",
+    "npm-login": "npm login",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
